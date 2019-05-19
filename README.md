@@ -3,6 +3,7 @@
 Author: Clelia Cervetto
 
 This is the Advanced Python individual Project for the elective in the Master of Business Analytics and Big Data.
+This code is PEP-08 compliant.
 
 ## Instructions: Rewrite the Bike Sharing analysis using Dask
 
