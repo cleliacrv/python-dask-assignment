@@ -1,6 +1,7 @@
 # Advanced Python course: Dask Assignment
 
 Author: Clelia Cervetto
+
 This is the Advanced Python individual Project for the elective in the Master of Business Analytics and Big Data.
 
 ## Instructions: Rewrite the Bike Sharing analysis using Dask
